@@ -5,6 +5,6 @@
 [code](https://github.com/iamheejae/Lat360) 
   
   
-![overview]<center>(https://user-images.githubusercontent.com/42056469/141826157-30379a39-4bcd-4789-835c-5bfdcbc5fde4.png)
+![overview](https://user-images.githubusercontent.com/42056469/141826157-30379a39-4bcd-4789-835c-5bfdcbc5fde4.png)
 
 
