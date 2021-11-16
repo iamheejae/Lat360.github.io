@@ -1,16 +1,3 @@
-<style type="text/css">
-@font-face {
-    font-family: 'Calibri';
-    src: url('calibri.eot');
-    src: url('calibri.eot?#iefix') format('embedded-opentype'),
-         url('calibri.woff') format('woff'),
-         url('calibri.ttf') format('truetype'),
-         url('calibri.svg#calibri') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
-</style>
-
 # <center>360 Image Reference-based Super-Resolution using Latitude Aware Convolution Learned from Synthetic to Real
   
 ### <center>Hee-Jae Kim, Je-Won Kang, Byung-Uk Lee
