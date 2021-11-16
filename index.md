@@ -32,5 +32,5 @@ This work was supported by the Institute of Information & Communications Technol
   
 </div>
 
-<center><img src="https://user-images.githubusercontent.com/42056469/141919797-a847b341-d8ab-42ca-ae80-62be1c041b4e.png"></center>
+<center><img src="https://user-images.githubusercontent.com/42056469/141919797-a847b341-d8ab-42ca-ae80-62be1c041b4e.png" vspace="25px"></center>
   
