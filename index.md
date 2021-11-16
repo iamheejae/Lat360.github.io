@@ -1,7 +1,7 @@
 # <center>360 Image Reference-based Super-Resolution using Latitude Aware Convolution Learned from Synthetic to Real
   
 ### <center>Hee-Jae Kim, Je-Won Kang, Byung-Uk Lee
-### <center><i>Ewha Womans University 
+### <center><i>Ewha Womans University ![ewha_mark](https://user-images.githubusercontent.com/42056469/141889556-c418d0f1-b735-46fd-ab36-7f49c442fbe9.png)
   
 <center>
 <a href="https://github.com/iamheejae/Lat360">code</a>
