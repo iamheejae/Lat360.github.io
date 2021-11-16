@@ -6,10 +6,10 @@
 <center><a href="https://github.com/iamheejae/Lat360">code</a></center>  
     
   
-<center><img src="https://user-images.githubusercontent.com/42056469/141900193-de252325-673c-4797-9f1c-ebbcc11666a0.png" width="500" vspace="100px"></center>
+<center><img src="https://user-images.githubusercontent.com/42056469/141900193-de252325-673c-4797-9f1c-ebbcc11666a0.png" width="500" vspace="25px"></center>
     
     
-<center><img src="https://user-images.githubusercontent.com/42056469/141826157-30379a39-4bcd-4789-835c-5bfdcbc5fde4.png" vspace="100px"></center>
+<center><img src="https://user-images.githubusercontent.com/42056469/141826157-30379a39-4bcd-4789-835c-5bfdcbc5fde4.png" vspace="25px"></center>
   
 <hr style="border: solid 1px gray;">
 ## Abstract
@@ -20,7 +20,7 @@ High-resolution (HR) 360-degree images offer great advantages wherever an omnidi
 <hr style="border: solid 1px gray;">
 ## Qualitative Result
 
-<center><img src="https://user-images.githubusercontent.com/42056469/141894670-9c616724-0ba8-48b2-bb23-6d02dd053555.png" vspace="100px"></center>
+<center><img src="https://user-images.githubusercontent.com/42056469/141894670-9c616724-0ba8-48b2-bb23-6d02dd053555.png" vspace="25px"></center>
 
 <hr style="border: solid 1px gray;">  
 ## Acknowledgement
