@@ -6,7 +6,7 @@
 <center><a href="https://github.com/iamheejae/Lat360">code</a></center>  
     
   
-<center><img src="https://user-images.githubusercontent.com/42056469/141894745-a7205d85-9142-4ec2-92ea-a4f2591f2206.png" width="400"></center>
+<center><img src="https://user-images.githubusercontent.com/42056469/141900193-de252325-673c-4797-9f1c-ebbcc11666a0.png" width="500"></center>
     
     
 <center><img src="https://user-images.githubusercontent.com/42056469/141826157-30379a39-4bcd-4789-835c-5bfdcbc5fde4.png"></center>
