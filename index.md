@@ -1,3 +1,7 @@
+<html lang="la">
+  <p>Lorem <span style="font-weight:700">ipsum</span> dolor sit amet.</p>
+</html>
+
 # <center>360 Image Reference-based Super-Resolution using Latitude Aware Convolution Learned from Synthetic to Real #
   
 ### <center>Hee-Jae Kim, Je-Won Kang, Byung-Uk Lee ###
