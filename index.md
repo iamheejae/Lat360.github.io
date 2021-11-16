@@ -3,7 +3,7 @@
 ### <center>Hee-Jae Kim, Je-Won Kang, Byung-Uk Lee
 
 <center>
-<a href="https://github.com/iamheejae/Lat360"><strong>code</a>
+<a href="https://github.com/iamheejae/Lat360">code</a>
 </center>  
   
 ![overview](https://user-images.githubusercontent.com/42056469/141826157-30379a39-4bcd-4789-835c-5bfdcbc5fde4.png)
