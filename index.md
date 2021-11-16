@@ -1,3 +1,8 @@
+@font-face {
+  font-family: NanumSquareWeb;
+  src: url(NanumSquareR.woff) format('woff')
+}
+
 # <center>360 Image Reference-based Super-Resolution using Latitude Aware Convolution Learned from Synthetic to Real
   
 ### <center>Hee-Jae Kim, Je-Won Kang, Byung-Uk Lee
