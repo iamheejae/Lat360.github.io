@@ -3,13 +3,12 @@
 ### <center>Hee-Jae Kim, Je-Won Kang, Byung-Uk Lee ###
 ### <center><i>Ewha Womans University ###
   
-<center><a href="https://github.com/iamheejae/Lat360">code</a></center>  
-    
+<center><a href="https://github.com/iamheejae/Lat360">code</a></center>   
   
 <center><img src="https://user-images.githubusercontent.com/42056469/141900193-de252325-673c-4797-9f1c-ebbcc11666a0.png" width="500" vspace="25px"></center>
     
     
-<center><img src="https://user-images.githubusercontent.com/42056469/141826157-30379a39-4bcd-4789-835c-5bfdcbc5fde4.png" vspace="25px"></center>
+<center><img src="https://user-images.githubusercontent.com/42056469/142144304-87285e6b-490f-4df4-8b6a-b5ea4b6941b8.png" vspace="25px"></center>
   
 ## Abstract ##
 <div style="text-align:justify">
