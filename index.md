@@ -8,7 +8,8 @@
 <center><img src="https://user-images.githubusercontent.com/42056469/141900193-de252325-673c-4797-9f1c-ebbcc11666a0.png" width="500" vspace="25px"></center>
 
 <center><img src="https://user-images.githubusercontent.com/42056469/143158150-7d83e0d3-471c-4b63-acdf-883cbeb29017.png" width="100" vspace="25px"></center>  
-<center><a href="https://github.com/iamheejae/Lat360">[code] <href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9617634">[paper]</a></center>   
+<center><a href="https://github.com/iamheejae/Lat360">[code] </a></center>   
+<center><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9617634">[paper]</a></center>   
     
 <center><img src="https://user-images.githubusercontent.com/42056469/142144304-87285e6b-490f-4df4-8b6a-b5ea4b6941b8.png" vspace="25px"></center>
   
