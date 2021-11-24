@@ -9,14 +9,12 @@
     
 <center><img src="https://user-images.githubusercontent.com/42056469/142144304-87285e6b-490f-4df4-8b6a-b5ea4b6941b8.png" vspace="25px"></center>
 
-<div style="float:left; margin-right:10px;">
 <center><img src="https://user-images.githubusercontent.com/42056469/143158150-7d83e0d3-471c-4b63-acdf-883cbeb29017.png" width="100" vspace="25px"></center>  
 <center><a href="https://github.com/iamheejae/Lat360">[code] </a></center>   
 <center><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9617634">[paper]</a></center>     
-</div>  
   
 ## Abstract ##
-<div style="text-align:justify; float: right;">
+<div style="text-align:justify;">
 High-resolution (HR) 360-degree images offer great advantages wherever an omnidirectional view is necessary such as in autonomous robot systems and virtual reality (VR) applications. One or more 360-degree images in adjacent views can be utilized to significantly improve the resolution of a target 360-degree image. In this paper, we propose an efficient reference-based 360-degree image super-resolution (RefSR) technique to exploit a wide field of view (FoV) among adjacent 360-degree cameras. Effective exploitation of spatial correlation is critical to achieving high quality even though the distortion inherent in the equi-rectangular projection (ERP) is a nontrivial problem. Accordingly, we develop a long-range 360 disparity estimator (DE360) to overcome a large and distorted disparity, particularly near the poles. Latitude-aware convolution (LatConv) is designed to generate more robust features to circumvent the distortion and keep the image quality. We also develop synthetic 360-degree image datasets and introduce a synthetic-to-real learning scheme that transfers knowledge learned from synthetic 360-degree images to a deep neural network conducting super-resolution (SR) of camera-captured images. The proposed network can learn useful features in the ERP-domain using a sufficient number of synthetic samples. The network is then adapted to camera-captured images through the transfer layer with a limited number of real-world datasets.
 </div>
 
