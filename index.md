@@ -33,15 +33,15 @@ We use Unity software to render 400 virtual indoor/outdoor scenes. In each scene
   
 <div style="width:47%; float:left;">
 <img src="https://user-images.githubusercontent.com/42056469/147187983-95abd413-55b6-425f-8ccb-c9ba21060cb0.gif" width="500" vspace="25px">
-<figcaption>Target viewpoint</figcaption>
+<center><figcaption>Target viewpoint</figcaption></center>
 <img src="https://user-images.githubusercontent.com/42056469/147187720-00f376d5-739e-4999-b457-e1f5e7530f7c.gif" width="500" vspace="25px">
-<figcaption>Refernce viewpoint 1</figcaption>
+<center><figcaption>Refernce viewpoint 1</figcaption></center>
 </div>
 <div style="width:47%; float:right;">
 <img src="https://user-images.githubusercontent.com/42056469/147187699-ca03abcb-7eae-48db-a6e3-0c0078b9ae0e.gif" width="500" vspace="25px">
-<figcaption>Refernce viewpoint 2</figcaption>
+<center><figcaption>Refernce viewpoint 2</figcaption></center>
 <img src="https://user-images.githubusercontent.com/42056469/147187749-e79a8e33-6160-4774-8173-e80e78c93970.gif" width="500" vspace="25px">
-<figcaption>Refernce viewpoint 3</figcaption>
+<center><figcaption>Refernce viewpoint 3</figcaption></center>
 </div> 
 
 <div style="clear:both;">
