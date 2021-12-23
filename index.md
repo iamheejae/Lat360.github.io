@@ -28,6 +28,9 @@ We use Unity software to render 400 virtual indoor/outdoor scenes. In each scene
 <img src="https://user-images.githubusercontent.com/42056469/147195115-3fcb0b78-49ef-4304-9ff0-64bf86755c3e.png" width="300" vspace="25px">
 </div> 
   
+<div style="clear:both;">
+</div>
+  
 <div style="width:47%; float:left;">
 <img src="https://user-images.githubusercontent.com/42056469/147187983-95abd413-55b6-425f-8ccb-c9ba21060cb0.gif" width="500" vspace="25px">
 <img src="https://user-images.githubusercontent.com/42056469/147187720-00f376d5-739e-4999-b457-e1f5e7530f7c.gif" width="500" vspace="25px">
