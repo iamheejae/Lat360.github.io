@@ -19,6 +19,7 @@ High-resolution (HR) 360-degree images offer great advantages wherever an omnidi
 ## Dataset ##
 
 ### Synthetic360 Dataset ###
+We use Unity software to render 400 virtual indoor/outdoor scenes. In each scenes, we record six reference videos from the virtual cameras positioned in 3D space around the target viewpoint. In half of the scenes, each camera is located 25 cm from the center. In the other half, the distance is set to 50 cm to test with various levels of similarity. 
   
 <div style="width:47%; float:left;">
 <img src="https://user-images.githubusercontent.com/42056469/147194351-cb451da5-e930-47ef-bca1-58b3de3009e6.jpg" width="200" vspace="25px">
