@@ -19,8 +19,10 @@ High-resolution (HR) 360-degree images offer great advantages wherever an omnidi
 
 ## Dataset ##
 
-<center><img src="https://user-images.githubusercontent.com/42056469/147187261-fd1893f6-2b9a-4469-8823-7f35c1fbfe9f.gif" width="500" vspace="25px"></center>
-  
+<center><img src="https://user-images.githubusercontent.com/42056469/147187699-ca03abcb-7eae-48db-a6e3-0c0078b9ae0e.gif" width="500" vspace="25px">
+<img src="https://user-images.githubusercontent.com/42056469/147187720-00f376d5-739e-4999-b457-e1f5e7530f7c.gif" width="500" vspace="25px">
+<img src="https://user-images.githubusercontent.com/42056469/147187749-e79a8e33-6160-4774-8173-e80e78c93970.gif" width="500" vspace="25px"></center>
+
 ## Qualitative Result ##
 
 <center><img src="https://user-images.githubusercontent.com/42056469/141894670-9c616724-0ba8-48b2-bb23-6d02dd053555.png" vspace="25px"></center>
