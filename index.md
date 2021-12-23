@@ -25,14 +25,15 @@ High-resolution (HR) 360-degree images offer great advantages wherever an omnidi
 <div style="width:47%; float:right;">
 <img src="https://user-images.githubusercontent.com/42056469/147187699-ca03abcb-7eae-48db-a6e3-0c0078b9ae0e.gif" width="500" vspace="25px">
 <img src="https://user-images.githubusercontent.com/42056469/147187749-e79a8e33-6160-4774-8173-e80e78c93970.gif" width="500" vspace="25px">
-</div> </p>
+</div> 
   
 ## Qualitative Result ##
-
+<div style="text-align:justify; float:inherit;">  
 <center><img src="https://user-images.githubusercontent.com/42056469/141894670-9c616724-0ba8-48b2-bb23-6d02dd053555.png" vspace="25px"></center>
-
+</div>
+  
 ## Acknowledgement ##
-<div style="text-align:justify">  
+<div style="text-align:justify; float:inherit;">  
 This work was supported by the MSIT(Ministry of Science and ICT), Korea, under the ITRC(Information Technology Research Center) support program(IITP-2021-2020-0-01460) supervised by the IITP(Institute for Information & Communications Technology Planning & Evaluation)
 
 This work was supported by the Institute of Information & Communications Technology Planning & Evaluation (IITP) grant funded by the Korea government(MSIT) (No. 2020-0-00920, Development of Ultra High Resolution Unstructured Plenoptic Video Storage/Compression/Streaming Technology for Medium to Large Space). 
