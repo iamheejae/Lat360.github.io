@@ -48,6 +48,7 @@ We use Unity software to render 400 virtual indoor/outdoor scenes. In each scene
 </div>
   
 ### Real360 Dataset ###
+We capture 251 groups of real-world 360-degree images formatted to a full ERP, using Samsung Gear360 in various environments. We categorize the images as S, M, and L, whose distances are less than 50 cm, 50 cm ~ 300 cm, and larger than 300 cm, respectively. 
   
 <div style="width:47%; float:left;">
 <center><img src="https://user-images.githubusercontent.com/42056469/147196735-d7a62de9-aefd-400e-b850-7c2ca3e69aed.jpg" width="150" vspace="25px"></center>
