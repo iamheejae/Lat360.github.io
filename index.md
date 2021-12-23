@@ -19,7 +19,7 @@ High-resolution (HR) 360-degree images offer great advantages wherever an omnidi
 ## Dataset ##
 
 ### Synthetic360 Dataset ###
-We use Unity software to render 400 virtual indoor/outdoor scenes. In each scenes, we record six reference videos from the virtual cameras positioned in 3D space around the target viewpoint. In half of the scenes, each camera is located 25 cm from the center. In the other half, the distance is set to 50 cm to test with various levels of similarity. 
+We use Unity software to render 400 virtual indoor/outdoor scenes. In each scene, we record six reference videos from the virtual cameras positioned in 3D space around the target viewpoint. In half of the scenes, each camera is located 25 cm from the center. In the other half, the distance is set to 50 cm to test with various levels of similarity. 
   
 <div style="width:47%; float:left;">
 <center><img src="https://user-images.githubusercontent.com/42056469/147194351-cb451da5-e930-47ef-bca1-58b3de3009e6.jpg" width="300" vspace="25px"></center>
@@ -32,18 +32,18 @@ We use Unity software to render 400 virtual indoor/outdoor scenes. In each scene
 </div>
   
 <div style="width:47%; float:left;">
-<img src="https://user-images.githubusercontent.com/42056469/147187983-95abd413-55b6-425f-8ccb-c9ba21060cb0.gif" width="500" vspace="25px">
+<img src="https://user-images.githubusercontent.com/42056469/147200312-4733bdca-bd1a-4c0d-9b1e-205dd6ef2184.gif" width="500" vspace="25px">
 <center><figcaption>Target viewpoint</figcaption></center>
-<img src="https://user-images.githubusercontent.com/42056469/147187720-00f376d5-739e-4999-b457-e1f5e7530f7c.gif" width="500" vspace="25px">
+<img src="https://user-images.githubusercontent.com/42056469/147200318-7bd5a5ab-48a2-4197-9bda-d0b8b2547d29.gif" width="500" vspace="25px">
 <center><figcaption>Refernce viewpoint 1</figcaption></center>
 </div>
 <div style="width:47%; float:right;">
-<img src="https://user-images.githubusercontent.com/42056469/147187699-ca03abcb-7eae-48db-a6e3-0c0078b9ae0e.gif" width="500" vspace="25px">
+<img src="https://user-images.githubusercontent.com/42056469/147200324-c3ba44b5-c389-4963-a0de-aa9510616863.gif" width="500" vspace="25px">
 <center><figcaption>Refernce viewpoint 2</figcaption></center>
-<img src="https://user-images.githubusercontent.com/42056469/147187749-e79a8e33-6160-4774-8173-e80e78c93970.gif" width="500" vspace="25px">
+<img src="https://user-images.githubusercontent.com/42056469/147200334-21790ff3-4d69-4928-9299-90e9124f2f14.gif" width="500" vspace="25px">
 <center><figcaption>Refernce viewpoint 3</figcaption></center>
 </div> 
-
+ 
 <div style="clear:both;">
 </div>
   
