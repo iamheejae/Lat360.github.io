@@ -19,7 +19,7 @@ High-resolution (HR) 360-degree images offer great advantages wherever an omnidi
 ## Dataset ##
 
 ### Synthetic360 Dataset ###
-<center><img src="https://user-images.githubusercontent.com/42056469/147194351-cb451da5-e930-47ef-bca1-58b3de3009e6.jpg" vspace="25px"></center>
+<center><img src="https://user-images.githubusercontent.com/42056469/147194351-cb451da5-e930-47ef-bca1-58b3de3009e6.jpg" width="100" vspace="25px"></center>
   
 <div style="width:47%; float:left;">
 <img src="https://user-images.githubusercontent.com/42056469/147187983-95abd413-55b6-425f-8ccb-c9ba21060cb0.gif" width="500" vspace="25px">
