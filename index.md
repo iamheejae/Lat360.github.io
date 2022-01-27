@@ -3,6 +3,11 @@
 ### <center>Hee-Jae Kim, Je-Won Kang, Byung-Uk Lee ###
 ### <center><i>Ewha Womans University ###
     
+<div style="clear:both;">
+<center><video controls width="50%" hight="30%">
+<source src="https://user-images.githubusercontent.com/42056469/151351928-47d4be6a-eb1e-428c-b357-ff1207074545.mp4" controls></video></center>
+</div>  
+  
 <div style="width:47%; float:left;">
 <center><img src="https://user-images.githubusercontent.com/42056469/141900193-de252325-673c-4797-9f1c-ebbcc11666a0.png" width="500" vspace="25px"></center>
 </div>
@@ -80,11 +85,6 @@ We capture 251 groups of real-world 360-degree images formatted to a full ERP, u
 </div> 
 
 <div style="clear:both;">
-</div>
-  
-<div style="clear:both;">
-<video controls width="50%" hight="30%">
-<source src="https://user-images.githubusercontent.com/42056469/151351435-a0b8ed0d-28ad-4f6d-bf40-5f29706aabab.mp4" controls></video>
 </div>
   
 ## Qualitative Result ##
