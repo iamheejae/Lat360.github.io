@@ -82,6 +82,11 @@ We capture 251 groups of real-world 360-degree images formatted to a full ERP, u
 <div style="clear:both;">
 </div>
   
+<div style="clear:both;">
+<video controls width="50%" hight="30%">
+<source src="https://user-images.githubusercontent.com/42056469/151351435-a0b8ed0d-28ad-4f6d-bf40-5f29706aabab.mp4" controls></video>
+</div>
+  
 ## Qualitative Result ##
 <div style="text-align:justify; float:inherit;">  
 <center><img src="https://user-images.githubusercontent.com/42056469/141894670-9c616724-0ba8-48b2-bb23-6d02dd053555.png" vspace="25px"></center>
